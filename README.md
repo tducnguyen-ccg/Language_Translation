@@ -5,5 +5,5 @@ This source code is implemented for confidential data, please edit and use your 
 
 Process:
 - Read and clean raw data from csv file (remove some special character)
-- Remove duplicate sample
+- Remove duplicated sample
 - Translate language using goslate
